@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/monportfolio/static/css/main.e13217c3.chunk.css",
+    "main.js": "/monportfolio/static/js/main.f615842c.chunk.js",
+    "main.js.map": "/monportfolio/static/js/main.f615842c.chunk.js.map",
+    "runtime-main.js": "/monportfolio/static/js/runtime-main.e629d71a.js",
+    "runtime-main.js.map": "/monportfolio/static/js/runtime-main.e629d71a.js.map",
+    "static/css/2.52e5aa25.chunk.css": "/monportfolio/static/css/2.52e5aa25.chunk.css",
+    "static/js/2.377f256b.chunk.js": "/monportfolio/static/js/2.377f256b.chunk.js",
+    "static/js/2.377f256b.chunk.js.map": "/monportfolio/static/js/2.377f256b.chunk.js.map",
+    "static/js/3.f1c792da.chunk.js": "/monportfolio/static/js/3.f1c792da.chunk.js",
+    "static/js/3.f1c792da.chunk.js.map": "/monportfolio/static/js/3.f1c792da.chunk.js.map",
+    "index.html": "/monportfolio/index.html",
+    "static/css/2.52e5aa25.chunk.css.map": "/monportfolio/static/css/2.52e5aa25.chunk.css.map",
+    "static/css/main.e13217c3.chunk.css.map": "/monportfolio/static/css/main.e13217c3.chunk.css.map",
+    "static/js/2.377f256b.chunk.js.LICENSE.txt": "/monportfolio/static/js/2.377f256b.chunk.js.LICENSE.txt",
+    "static/media/avatar.svg": "/monportfolio/static/media/avatar.830c3864.svg",
+    "static/media/code_html.26f73a67.svg": "/monportfolio/static/media/code_html.26f73a67.svg",
+    "static/media/codepen.29394df8.png": "/monportfolio/static/media/codepen.29394df8.png",
+    "static/media/company.1e472b23.png": "/monportfolio/static/media/company.1e472b23.png",
+    "static/media/ecommerce.fcb2900e.png": "/monportfolio/static/media/ecommerce.fcb2900e.png",
+    "static/media/gesStock.6c25e066.png": "/monportfolio/static/media/gesStock.6c25e066.png",
+    "static/media/moncv.2.pdf": "/monportfolio/static/media/moncv.2.027923ff.pdf",
+    "static/media/pharmApp2.99b4593b.PNG": "/monportfolio/static/media/pharmApp2.99b4593b.PNG",
+    "static/media/photoshop.02e86cb1.svg": "/monportfolio/static/media/photoshop.02e86cb1.svg",
+    "static/media/pizzaWeb.8b82b149.png": "/monportfolio/static/media/pizzaWeb.8b82b149.png",
+    "static/media/react.7098e271.svg": "/monportfolio/static/media/react.7098e271.svg",
+    "static/media/react_uv.svg": "/monportfolio/static/media/react_uv.7b78f5c3.svg",
+    "static/media/undraw_page_not_found_su7k.4861ae77.svg": "/monportfolio/static/media/undraw_page_not_found_su7k.4861ae77.svg",
+    "static/media/undraw_version_control_re_mg66 (1).916ea255.svg": "/monportfolio/static/media/undraw_version_control_re_mg66 (1).916ea255.svg",
+    "static/media/weatherApp.ae63c87a.PNG": "/monportfolio/static/media/weatherApp.ae63c87a.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e629d71a.js",
+    "static/css/2.52e5aa25.chunk.css",
+    "static/js/2.377f256b.chunk.js",
+    "static/css/main.e13217c3.chunk.css",
+    "static/js/main.f615842c.chunk.js"
+  ]
+}
