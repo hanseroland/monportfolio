@@ -122,7 +122,7 @@ const Banner = () => {
             animate={{ opacity: 1 }}
             transition={{ duration: 1 }}
           >
-            DEVELOPPEUR WEB / WEB MOBILE JUNIOR, REACT
+            DEVELOPPEUR WEB / WEB MOBILE JUNIOR
           </motion.h2>
           <motion.h6
             variants={fadeLeft}
@@ -130,8 +130,8 @@ const Banner = () => {
             animate='visible'
             transition={{ duration: 1 }}
           >
-            Je suis un développeur Web / Web mobile Junior spécialisé en React.js pour le développement web et 
-            React Native pour le développement web mobile basé à Dakar, au Sénégal
+            Je suis un développeur Web / Web mobile Junior spécialisé en React JS pour le développement web et 
+            React Native pour le développement web mobile.
           </motion.h6>
           <Button
             whileHover={{ scale: 1.05 }}
