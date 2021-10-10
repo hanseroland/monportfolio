@@ -15,7 +15,7 @@ export  const ProjectData = [
         description:"Site web de ecommerce, avec des différentes fonctionnalités comme l'authentifiaction des utilisateurs, "+
         "création, ajout et suppression d'articles, gestion du panier d'articles.",
         codeSource:'https://github.com/hanseroland/ecommerce-v1',
-        lien:'',
+        lien:'https://hanseroland.github.io/ecommerce-v1/',
         iconColor:'#F50057',
         hoverColor:'#1DA84E',
         footerColor:'#00B0FF'
@@ -28,7 +28,7 @@ export  const ProjectData = [
         soustitre:"React Js",
         description:"Exemple de site pour la présentation de son entreprise.",
         codeSource:'https://github.com/hanseroland/company',
-        lien:'https://hanseroland.github.io/company',
+        lien:'https://hanseroland.github.io/company-v1',
         iconColor:'#e86a0a',
         hoverColor:'#1DA84E',
         footerColor:'#F50057'
