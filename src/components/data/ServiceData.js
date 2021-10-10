@@ -9,7 +9,7 @@ export  const ServiceData = [
         logo:ImageOne,
         titre:"Developpemmnt d'application mobile cross-plateforme",
         soustitre:"React Native",
-        description:"J'utilise  React Native pour le développement d'applications mobiles fonctionnant"+
+        description:"J'utilise  React Native pour le développement d'applications mobiles fonctionnant "+
         "à la fois sur IOS et ANDROID, simple, efficace et rapide.",
         iconColor:'#00B0FF',
         hoverColor:'#1DA84E',
@@ -34,7 +34,7 @@ export  const ServiceData = [
         titre:"Infographie",
         soustitre:"Photoshop",
         description:"La conception d'une application, nécessite souvent une maquette graphique avec mes connaissances en infographie, j'identifie les "+
-        "besoins de l'utilisateur à fin de lui rendre un produit attréyant.",
+        "besoins de l'utilisateur afin de lui rendre un produit attréyant.",
         iconColor:'#536DFE',
         hoverColor:'#1DA84E',
         footerColor:'#536DFE'

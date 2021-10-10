@@ -24,7 +24,7 @@ export  const ProjectData = [
     {
         id:2,
         logo:ImageTwo,
-        titre:"Site web pour entreprise",
+        titre:"Design site web pour entreprise",
         soustitre:"React Js",
         description:"Exemple de site pour la présentation de son entreprise.",
         codeSource:'https://github.com/hanseroland/company',
@@ -37,7 +37,7 @@ export  const ProjectData = [
     {
         id:3,
         logo:ImageThree,
-        titre:"Site web pour la vente de pizzaria",
+        titre:"Design site web pour la vente de pizzas",
         soustitre:"React Js",
         description:"Template de boutique en ligne pour la vente pizza",
         codeSource:'https://github.com/hanseroland/e-pizzaria',
@@ -52,8 +52,8 @@ export  const ProjectData = [
         logo:ImageFour,
         titre:"Application Web de gestion de stock",
         soustitre:"PHP + MySQL + JQuery + Bootstrap",
-        description:"Application basée sur le CRUD (Create, Read, Update ,Delete), pour les petites boutiques "+
-        "qui souhaitent suivre leur rendement. Cette application contient les fonctionnalités suivantes : Facturations des client "+
+        description:"Application web, pour les petites boutiques qui souhaîtent avoir une maîtrise de leur stock."+
+        "Cette application contient les fonctionnalités suivantes : Facturations des client "+
         "avec emissionsdes factures au format Pdf, gestion des utilisateurs, gestions des catégories, gestions des achats.",
         codeSource:'https://github.com/hanseroland/gestion-de-stock',
         lien:'',
@@ -86,7 +86,7 @@ export  const ProjectData = [
         titre:"Application mobile de Météo",
         soustitre:"React Native",
         description:"Application de prédiction météo en temps réel, dans cette application, nous "+
-        "recupérons des données au format JSON depuis l' API Open Weather que nous traitons par la suite",
+        "recupérons des données au format JSON depuis l' API Open Weather que nous traitons par la suite.",
         codeSource:'https://github.com/hanseroland/application-meteo',
         lien:'',
         iconColor:'#2d2e33',
