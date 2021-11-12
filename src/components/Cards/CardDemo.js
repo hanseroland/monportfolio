@@ -11,10 +11,12 @@ import { useLightTopShadowStyles } from '@mui-treasury/styles/shadow/lightTop';
 
 const useStyles = makeStyles(() => ({
   root: {
-    maxWidth: 304,
+    maxWidth: '100%',
+    maxHeight: '60%',
     margin: 'auto',
-    borderRadius: 0,
-    position: 'relative',
+   
+  
+  
    
   },
   content: {
@@ -32,6 +34,12 @@ const useStyles = makeStyles(() => ({
     color: '#fff',
     letterSpacing: '2px',
   },
+  imgStyle:{
+    maxWidth: "100%",
+    maxHeight: "100%",
+    
+      
+  }
 }));
 
 export const CardDemo = React.memo(function NewsCard2(props) {
@@ -40,10 +48,11 @@ export const CardDemo = React.memo(function NewsCard2(props) {
   const shadowStyles = useLightTopShadowStyles();
   return (
     <Card className={cx(styles.root, shadowStyles.root)}>
-      <CardMedia
+      {/*<CardMedia
         classes={mediaStyles}
         image={props.logo}
-      />
+      />*/}
+      <img src={props.logo} alt="" className={styles.imgStyle} />
       <CardActionArea>
         <CardContent className={styles.content}>
           <Box

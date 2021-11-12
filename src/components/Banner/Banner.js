@@ -32,15 +32,12 @@ const AboutInfo =
                   "de requête SQL en Java (Swing). Avec une faible connaissance en programmation dès le départ, j'ai alors relever ce défit. "+
                   "Cette expérience m'a fait comprendre que je pouvais me surpasser. Puis j'ai décidé de m'orienter"+
                   " dans le Génie Loiciel après mon DUT en Réseaux et Télécommubications. \n\n"+
-                  "Autodidacte et ayant un vif intérêt à collaborer pour créer des solutions numériques qui résolvent les problèmes du monde réel. "+
-                  "Je m'implique avec passion dans les projets où je participe afin de repousser mes limites. \n\n"+
-                  "Actuellement en Master 1 à l'École Supérieure de Technologie et de Management (ESTM, Dakar-Sénégal). "+
-                  "Je comprend les concepts de base de la POO et de l’étude d’un projet jusqu’à sa réalisation. "+
-                  "Au cours de ma formation j'ai réalisé différents projets, qui m’ont permis d’acquérir des compétences en MERN, "+ 
-                  "gestion des états dans une application React avec Redux, utilisation de React avec Firebase , administration de site web avec LAMP, "+
-                  "développement d’applications desktop avec Java , et création de site web avec WordPress. Passionner de technologie"+
-                  " j’utilise Latex pour la rédaction de documents et beamer pour la présentation. J’ai également des compétences "+
-                  "en infographie avec Photoshop.",
+                
+                  "Actuellement en Master 1, option Génie Logiciel et Administration Réseaux à l'École Supérieure de Technologie et de Management (ESTM, Dakar-Sénégal). "+
+                  "J'ai réalisé différents projets, qui m’ont permis d’acquérir des compétences en MERN  et des Web services API REST/JSON, "+ 
+                  "en passant par la gestion des états dans une application React avec Redux. J'ai une bonne maîtrise de Javascript, HTML, CSS, Bootstrap et PHP. \n\n"+
+                  "Le développement d'une application est toujours suivi d'une documentation, "+
+                  "étant passionné de technologie, j'utilise Latex pour la rédaction de documents.",
               
                 /* "compétences en Back-end. Je suis passionné par l'utilisation "+
                  "de mes divers horizons pour déchiffrer des problèmes difficiles et créer des expériences "+
@@ -57,7 +54,7 @@ const AboutInfo =
     primary: true,
     darkText: false,
     showButton: false,
-    path: require("../../images/moncv.2.pdf").default,
+    path: require("../../images/Hanse-Roland-Parfait-NGUEMA-Ntougou-CV.pdf").default,
 };
 
 const ContactDetail = 
@@ -130,8 +127,7 @@ const Banner = () => {
             animate='visible'
             transition={{ duration: 1 }}
           >
-            Je suis un développeur Web / Web mobile Junior spécialisé en React JS pour le développement web et 
-            React Native pour le développement web mobile.
+            Je suis un développeur Web / Web mobile Junior passionné de la technologie React JS/Native.
           </motion.h6>
           <Button
             whileHover={{ scale: 1.05 }}

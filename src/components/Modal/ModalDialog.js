@@ -73,7 +73,7 @@ export default function ModalDialog(props) {
                     </Grid>
                     <Grid item lg={6} md={6} xs={12}>
                         <Paper>
-                            <Box p={4} justifyContent="center" >
+                            <Box p={2} justifyContent="center" >
                                 <Typography variant="h4" color="inherit" > {data.titre} </Typography>
                                 <Typography variant="subtitle1" > {data.soustitre} </Typography>
                                 <Typography variant="body1" align="justify" >
@@ -81,8 +81,10 @@ export default function ModalDialog(props) {
                                 </Typography>
                                 <Box display="flex">
                                        <ButtonLink href={data.codeSource} target='_blank' style={{borderRadius:'10px'}}> Code Source</ButtonLink>
-
-                                       <ButtonLink href={data.lien} target='_blank' style={{marginLeft:'10px', borderRadius:'10px'}} > Démo</ButtonLink>
+                                        {data.lien && 
+                                           <ButtonLink href={data.lien} target='_blank' style={{marginLeft:'10px', borderRadius:'10px'}} > Démo</ButtonLink>
+                                        }
+                                      
                                 </Box>
                             </Box>
                       </Paper>

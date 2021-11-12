@@ -21,8 +21,8 @@ export  const ServiceData = [
         logo:ImageTwo,
         titre:"Developpement d'application Web et Desktop",
         soustitre:"React Js, Java",
-        description:"J'utilise principalement le framework react Js pour coder des application web et site web attrayants qui "+
-        "répondent aux besoins des utilisateurs à l'aide du langage Javascript ou php. J'utilse également Java (Swing) pour la réalisation de logiciel de bureau.",
+        description:"J'utilise principalement le framework react Js pour coder des applications web attrayantes  "+
+        "répondant aux besoins des utilisateurs.",
         iconColor:'#F50057',
         hoverColor:'#1DA84E',
         footerColor:'#F50057'
@@ -33,8 +33,7 @@ export  const ServiceData = [
         logo:ImageThree,
         titre:"Infographie",
         soustitre:"Photoshop",
-        description:"La conception d'une application, nécessite souvent une maquette graphique avec mes connaissances en infographie, j'identifie les "+
-        "besoins de l'utilisateur afin de lui rendre un produit attréyant.",
+        description:"La conception d'une application, nécessite souvent une maquette graphique avec mes connaissances en photoshop, je réalise des visuels.",
         iconColor:'#536DFE',
         hoverColor:'#1DA84E',
         footerColor:'#536DFE'

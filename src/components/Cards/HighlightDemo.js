@@ -157,7 +157,7 @@ export const HighlightCardDemo = React.memo(function HighlightCard(props) {
         spacing={4}
       >*/}
        {/* <Grid item> */}
-          <CustomCard
+          <CustomCard 
             styles={styles1}
             brand={props.soustitre}
             data={props.data}
