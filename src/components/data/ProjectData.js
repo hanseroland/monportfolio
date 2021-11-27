@@ -1,4 +1,4 @@
-import ImageOne from '../../images/ecommerce.png'
+import ImageOne from '../../images/IMG_2566.PNG'
 import ImageTwo from '../../images/company.png'
 import ImageThree from '../../images/pizzaWeb.png'
 import ImageFour from '../../images/gesStock.png'
@@ -13,20 +13,32 @@ import ImageNine from '../../images/simplecrud.png'
 export  const ProjectData = [
     {
         id:1,
-        logo:ImageOne,
-        titre:"Site de E-commerce",
-        soustitre:"MongoDB + Express + React + Node.js",
-        description:"Site web de ecommerce, avec différentes fonctionnalités comme l'authentifiaction des utilisateurs et la gestion des rôles des utilisateurs. "+
-        "Ajout , mise à jours et suppression d'articles, gestion du panier d'articles.",
-        codeSource:'https://github.com/hanseroland/ecommerce-v1',
+        logo:ImageSeven,
+        titre:"Ecommerce v2",
+        soustitre:"MongoDB + Express + React + Node Js",
+        description:"Site web de ecommerce avec intégration de Stripe pour le payement par carte banquaire.",
+        codeSource:'https://github.com/hanseroland/ecommerce-v2',
         lien:'',
-        iconColor:'#F50057',
+        iconColor:'#ba0f0f',
         hoverColor:'#1DA84E',
-        footerColor:'#00B0FF'
- 
+        footerColor:'#536DFE'
+
     },
     {
         id:2,
+        logo:ImageNine,
+        titre:"Simple CRUD",
+        soustitre:"MongoDB + Express + React + Node Js",
+        description:"Simple application Create Read Update Delete, pour débutant avec MERN.",
+        codeSource:'https://github.com/hanseroland/simplecrudmern',
+        lien:'',
+        iconColor:'#0f1b57',
+        hoverColor:'#1DA84E',
+        footerColor:'#536DFE'
+
+    },
+    {
+        id:3,
         logo:ImageTwo,
         titre:"Design site web pour entreprise",
         soustitre:"React Js",
@@ -39,7 +51,7 @@ export  const ProjectData = [
 
     },
     {
-        id:3,
+        id:4,
         logo:ImageThree,
         titre:"E-commerce pizzas",
         soustitre:"React Js + Redux",
@@ -53,7 +65,7 @@ export  const ProjectData = [
 
     },
     {
-        id:4,
+        id:5,
         logo:ImageFour,
         titre:"Application Web de gestion de stock",
         soustitre:"PHP + MySQL + JQuery + Bootstrap",
@@ -69,14 +81,15 @@ export  const ProjectData = [
 
     },
     {
-        id:5,
+        id:6,
         logo:ImageFive,
         titre:"Application mobile de Géolocalisation de Pharmacie",
         soustitre:"React Native + PHP + MySQL",
-        description:"Avec ce projet j'ai fait mon entrée dans le développement mobile."+
-        " Il est composé de deux principales parties : le Backend  et le Frontend, dans la partie"+
-        " Backend nous avons confectionné une API REST avec PHP pour récupérer les données des pharmacies dans une base de données commune puis nous les renvoyons"+
-        " au format JSON. Gestion et persistence de l'authentification lors de la première connexion à l'application grâce à l'API context de react et AsyncStorage. Cette application n'est pas terminée, elle reste à améloierer. Elle peut-être d'un véritable bénéfique pour les populations"+
+        description:"Application moblie "+
+        " composée de deux principales parties : le Backend  et le Frontend, dans la partie"+
+        " Backend nous avons confectionné une API REST avec PHP pour récupérer les données des pharmacies dans une base de données MySQL puis nous les renvoyons"+
+        " au format JSON. Gestion et persistence de l'authentification lors de la première connexion à l'application grâce à l'API context de react et AsyncStorage."+
+        " Cette application n'est pas terminée, elle reste à améloierer. Elle peut-être d'un véritable bénéfique pour les populations"+
         " vivant dans des zones reculées ou en cas d'urgence dans la nuit par exemple. Elle doit permettre de trouver la pharmacie de garde"+
         " la plus prôche qui possède le produit recherché.",
         codeSource:'https://github.com/hanseroland/geo-pharmacie',
@@ -102,36 +115,24 @@ export  const ProjectData = [
     },
     {
         id:7,
-        logo:ImageSeven,
-        titre:"Ecomerce v2",
-        soustitre:"MongoDB + Express + React + Node Js",
-        description:"Site web de ecommerce avec intégration de Stripe pour le payement par carte banquaire.",
-        codeSource:'https://github.com/hanseroland/ecommerce-v2',
+        logo:ImageOne,
+        titre:"Application mobile, login app",
+        soustitre:"React Native + firebase",
+        description:"Application  d'authentification avec firebase, inscription ,connexion et déconnexion .",
+        codeSource:'https://github.com/hanseroland/firebase-auth',
         lien:'',
-        iconColor:'#ba0f0f',
+        iconColor:'#2d2e33',
         hoverColor:'#1DA84E',
         footerColor:'#536DFE'
 
     },
+   
     {
         id:8,
-        logo:ImageNine,
-        titre:"Simple CRUD",
-        soustitre:"MongoDB + Express + React + Node Js",
-        description:"Simple application Create Read Update Delete, pour débutant avec MERN.",
-        codeSource:'https://github.com/hanseroland/simplecrudmern',
-        lien:'',
-        iconColor:'#0f1b57',
-        hoverColor:'#1DA84E',
-        footerColor:'#536DFE'
-
-    },
-    {
-        id:9,
         logo:ImageHeight,
         titre:"Tableau de bord",
         soustitre:"React",
-        description:"Tableau de bord React, avec gestion des notification lors de l'ajout, modification et suppression des données.",
+        description:"Tableau de bord React, avec notifications lors de l'ajout, modification et suppression des données.",
         codeSource:'https://github.com/hanseroland/dashboard-v1',
         lien:'https://hanseroland.github.io/dashboard-v1/',
         iconColor:'#080c1d',
