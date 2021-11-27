@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/monportfolio/static/css/main.e13217c3.chunk.css",
-    "main.js": "/monportfolio/static/js/main.2e00d240.chunk.js",
-    "main.js.map": "/monportfolio/static/js/main.2e00d240.chunk.js.map",
+    "main.js": "/monportfolio/static/js/main.6a4e801d.chunk.js",
+    "main.js.map": "/monportfolio/static/js/main.6a4e801d.chunk.js.map",
     "runtime-main.js": "/monportfolio/static/js/runtime-main.e629d71a.js",
     "runtime-main.js.map": "/monportfolio/static/js/runtime-main.e629d71a.js.map",
     "static/css/2.52e5aa25.chunk.css": "/monportfolio/static/css/2.52e5aa25.chunk.css",
@@ -15,12 +15,12 @@
     "static/css/main.e13217c3.chunk.css.map": "/monportfolio/static/css/main.e13217c3.chunk.css.map",
     "static/js/2.37808ff0.chunk.js.LICENSE.txt": "/monportfolio/static/js/2.37808ff0.chunk.js.LICENSE.txt",
     "static/media/Hanse-Roland-Parfait-NGUEMA-Ntougou-CV.pdf": "/monportfolio/static/media/Hanse-Roland-Parfait-NGUEMA-Ntougou-CV.c0a2596e.pdf",
+    "static/media/IMG_2566.a2033c3e.PNG": "/monportfolio/static/media/IMG_2566.a2033c3e.PNG",
     "static/media/article-v2.4ae53d41.png": "/monportfolio/static/media/article-v2.4ae53d41.png",
     "static/media/avatar.svg": "/monportfolio/static/media/avatar.830c3864.svg",
     "static/media/code_html.26f73a67.svg": "/monportfolio/static/media/code_html.26f73a67.svg",
     "static/media/codepen.29394df8.png": "/monportfolio/static/media/codepen.29394df8.png",
     "static/media/company.74bb60e4.png": "/monportfolio/static/media/company.74bb60e4.png",
-    "static/media/ecommerce.fcb2900e.png": "/monportfolio/static/media/ecommerce.fcb2900e.png",
     "static/media/gesStock.6c25e066.png": "/monportfolio/static/media/gesStock.6c25e066.png",
     "static/media/home.0a67fb07.png": "/monportfolio/static/media/home.0a67fb07.png",
     "static/media/pharmApp2.99b4593b.PNG": "/monportfolio/static/media/pharmApp2.99b4593b.PNG",
@@ -38,6 +38,6 @@
     "static/css/2.52e5aa25.chunk.css",
     "static/js/2.37808ff0.chunk.js",
     "static/css/main.e13217c3.chunk.css",
-    "static/js/main.2e00d240.chunk.js"
+    "static/js/main.6a4e801d.chunk.js"
   ]
 }
