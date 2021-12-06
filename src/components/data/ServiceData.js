@@ -1,7 +1,7 @@
 import ImageOne from '../../images/react.svg'
 import ImageTwo from '../../images/code_html.svg'
 import ImageThree from '../../images/photoshop.svg'
-
+import ImageFour from '../../images/java.svg'
 
 export  const ServiceData = [
     {
@@ -19,10 +19,9 @@ export  const ServiceData = [
     {
         id:2,
         logo:ImageTwo,
-        titre:"Developpement d'application Web et Desktop",
-        soustitre:"React Js, Java",
-        description:"J'utilise principalement le framework react Js pour coder des applications web attrayantes  "+
-        "répondant aux besoins des utilisateurs.",
+        titre:"Developpement d'applications/sites Web",
+        soustitre:"HTML, CSS, React.js, Express.js, Node.js, JavaScript,\nPhp, WordPress, MongoDB, MySql, Firebase",
+        description:"J'innove dans la création d'applications et sites web tout en répondant aux besoins des utilisateurs.",
         iconColor:'#F50057',
         hoverColor:'#1DA84E',
         footerColor:'#F50057'
@@ -30,10 +29,11 @@ export  const ServiceData = [
     },
     {
         id:3,
-        logo:ImageThree,
-        titre:"Infographie",
-        soustitre:"Photoshop",
-        description:"La conception d'une application, nécessite souvent une maquette graphique avec mes connaissances en photoshop, je réalise des visuels.",
+        logo:ImageFour,
+        titre:"Développement d'applications desktop",
+        soustitre:"Java",
+        description:"Je développe aussi bien des applications à installer sur le poste de travail pouvant\n"+
+        "interagir avec un serveur pour rendre l'expérience utilisateur encore riche.",
         iconColor:'#536DFE',
         hoverColor:'#1DA84E',
         footerColor:'#536DFE'

@@ -33,12 +33,10 @@ const AboutInfo =
                   "Cette expérience m'a fait comprendre que je pouvais me surpasser. Puis j'ai décidé de m'orienter"+
                   " dans le Génie Loiciel après mon DUT en Réseaux et Télécommubications. \n\n"+
                 
-                  "Actuellement en Master 1, option Génie Logiciel et Administration Réseaux à l'École Supérieure de Technologie et de Management (ESTM, Dakar-Sénégal). "+
-                  "J'ai réalisé différents projets, qui m’ont permis d’acquérir des compétences en MERN  et des Web services API REST/JSON, "+ 
-                  "en passant par la gestion des états dans une application React avec Redux. J'ai une bonne maîtrise de Javascript, HTML, CSS, Bootstrap et PHP. \n\n"+
-                  "Le développement d'une application est toujours suivi d'une documentation, "+
-                  "étant passionné de technologie, j'utilise Latex pour la rédaction de documents.",
-              
+                  "J'ai réalisé différents projets, qui m’ont permis d’acquérir des compétences en HTML, CSS, Bootstrap, Material UI, JavaScript, Redux, React.js, React Native, PHP, MySql, MongoDB, Firebase, Express.js et Node.js."+ 
+                  "en passant par la gestion des états dans une application React grâce à la bibliothèque Redux.\n\n"+
+
+                  "Je comprends égalements les concepts d'applications à page unique, d'applications Web progressives et d'API Rest.",
                 /* "compétences en Back-end. Je suis passionné par l'utilisation "+
                  "de mes divers horizons pour déchiffrer des problèmes difficiles et créer des expériences "+
                  "délicieuses. Je continue de perfectionner mes compétences en développement Web/Mobile Web, en rédaction technique.  \n\n"+
@@ -66,7 +64,7 @@ const ContactDetail =
     lightTextDesc: true,
     topLine: 'Contactez-moi',
     headLine: " Je suis disponible pour travailler sur vos projets et donner vie à vos idées. Je ne suis qu'à un clic.",
-    description1: "Tél.: (221) 77 515 38 37",
+    description1: "Tél.: (221) 77 517 39 37",
     description2: "Fix: (221) 33 825 52 23",
     description3: "Email : rolandntougou@gmail.com",
     description4: "Adresse: Ouest-Foire Cité khandar Lot 8",
