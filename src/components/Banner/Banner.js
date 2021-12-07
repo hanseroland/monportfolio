@@ -117,7 +117,7 @@ const Banner = () => {
             animate={{ opacity: 1 }}
             transition={{ duration: 1 }}
           >
-            DEVELOPPEUR WEB / WEB MOBILE JUNIOR
+            DEVELOPPEUR FULLSTACK
           </motion.h2>
           <motion.h6
             variants={fadeLeft}
@@ -125,7 +125,7 @@ const Banner = () => {
             animate='visible'
             transition={{ duration: 1 }}
           >
-            Je suis un développeur Web / Web mobile Junior passionné de la technologie React JS/Native.
+            Je suis un développeur fullstack passionné de React.js et React Native.
           </motion.h6>
           <Button
             whileHover={{ scale: 1.05 }}
