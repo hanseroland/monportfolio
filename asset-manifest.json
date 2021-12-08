@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/monportfolio/static/css/main.e13217c3.chunk.css",
-    "main.js": "/monportfolio/static/js/main.fefe3e5b.chunk.js",
-    "main.js.map": "/monportfolio/static/js/main.fefe3e5b.chunk.js.map",
+    "main.js": "/monportfolio/static/js/main.516ee3b9.chunk.js",
+    "main.js.map": "/monportfolio/static/js/main.516ee3b9.chunk.js.map",
     "runtime-main.js": "/monportfolio/static/js/runtime-main.e629d71a.js",
     "runtime-main.js.map": "/monportfolio/static/js/runtime-main.e629d71a.js.map",
     "static/css/2.52e5aa25.chunk.css": "/monportfolio/static/css/2.52e5aa25.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.52e5aa25.chunk.css.map": "/monportfolio/static/css/2.52e5aa25.chunk.css.map",
     "static/css/main.e13217c3.chunk.css.map": "/monportfolio/static/css/main.e13217c3.chunk.css.map",
     "static/js/2.6a3a27a2.chunk.js.LICENSE.txt": "/monportfolio/static/js/2.6a3a27a2.chunk.js.LICENSE.txt",
-    "static/media/Hanse-Roland-Parfait-NGUEMA-Ntougou-CV.pdf": "/monportfolio/static/media/Hanse-Roland-Parfait-NGUEMA-Ntougou-CV.28ad2e9d.pdf",
+    "static/media/Hanse-Roland-Parfait-NGUEMA-Ntougou-CV.pdf": "/monportfolio/static/media/Hanse-Roland-Parfait-NGUEMA-Ntougou-CV.94ce2cc9.pdf",
     "static/media/IMG_2566.a2033c3e.PNG": "/monportfolio/static/media/IMG_2566.a2033c3e.PNG",
     "static/media/article-v2.4ae53d41.png": "/monportfolio/static/media/article-v2.4ae53d41.png",
     "static/media/avatar.svg": "/monportfolio/static/media/avatar.830c3864.svg",
@@ -39,6 +39,6 @@
     "static/css/2.52e5aa25.chunk.css",
     "static/js/2.6a3a27a2.chunk.js",
     "static/css/main.e13217c3.chunk.css",
-    "static/js/main.fefe3e5b.chunk.js"
+    "static/js/main.516ee3b9.chunk.js"
   ]
 }
